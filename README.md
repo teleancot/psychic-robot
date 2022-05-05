@@ -1,0 +1,2 @@
+# psychic-robot
+TOTORIAL TERMUX
