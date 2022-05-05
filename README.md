@@ -1,2 +1,2 @@
-# psychic-robot
+https://github.com/teleancot/psychic-robot
 TOTORIAL TERMUX
